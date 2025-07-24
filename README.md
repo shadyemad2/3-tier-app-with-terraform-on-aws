@@ -72,6 +72,8 @@ This project provisions a **production-grade 3-tier web application architecture
 │   ├── cloudwatch/
 │   └── bastion/
 ├── main.tf
+├── user_data/
+│   ├── install_wordpress.tpl
 ├── variables.tf
 ├── outputs.tf
 ├── terraform.tfvars

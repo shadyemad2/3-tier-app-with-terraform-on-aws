@@ -4,13 +4,14 @@ This project provisions a **production-grade 3-tier web application architecture
 
 ---
 ## 🖼️ Architecture Diagram
-
-![Architecture](images/architecture.png)
+<img width="491" height="537" alt="diagrame" src="https://github.com/user-attachments/assets/2418fc19-8790-472b-8045-782e57c48b0d" />
 
 ## 📸 WordPress App Running on ALB
-
-![WordPress UI](images/wordpress-ui.png)
-
+<img width="1461" height="961" alt="test" src="https://github.com/user-attachments/assets/d9268230-4abf-486b-8622-f81531fc9019" />
+<img width="1698" height="900" alt="test2" src="https://github.com/user-attachments/assets/353e563c-cdf1-4fd6-9476-15c011fa63a8" />
+<img width="1662" height="903" alt="test3" src="https://github.com/user-attachments/assets/757dbafa-00a9-4770-96d1-ca33f8f26073" />
+<img width="1728" height="650" alt="test4" src="https://github.com/user-attachments/assets/6b3684f9-f58e-470a-b367-05b7e3db920e" />
+<img width="1749" height="700" alt="test5" src="https://github.com/user-attachments/assets/ff8af28c-a43a-4942-9b48-eabdbc70b99b" />
 
 ## 🧱 Architecture Overview
 
